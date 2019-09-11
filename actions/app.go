@@ -10,7 +10,7 @@ import (
 	"github.com/gobuffalo/buffalo-pop/pop/popmw"
 	contenttype "github.com/gobuffalo/mw-contenttype"
 	"github.com/gobuffalo/x/sessions"
-	"github.com/rizalwildan/coke/models"
+	"coke/models"
 	"github.com/rs/cors"
 )
 
